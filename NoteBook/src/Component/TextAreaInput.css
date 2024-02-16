@@ -1,0 +1,43 @@
+.Text-input {
+    display: flex;
+    padding: 10px;
+    background-color: #f5f5f5;
+    margin-top: 400px;
+  }
+  
+  .Text-input textarea {
+    width: 1200px;
+    height: 100px;
+    top: 750px;
+    left: 468px;
+    border-radius: 9px;
+    border: 1px 
+  }
+
+/* till here
+
+    /* flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-size: 14px;
+  } */
+
+
+
+  /* i have commetn deone  */
+  
+  .Text-input button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .Text-input button:hover {
+    background-color: #0056b3;
+  } 
